@@ -19,6 +19,8 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textsize="2osp"
+        android:textstyle="bold"
         />
 
 </LinearLayout>

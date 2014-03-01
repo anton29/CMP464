@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference
+        android:title="alternative1"
+        android:defaultValue="false"
+        android:summary="alternative style for screen 1"
+        android:key="alt_1" />
+    <CheckBoxPreference 
+        android:title="alternative2"
+        android:defaultValue="false"
+        android:summary="alternative style for screen 2"/>
+    	
+
+</PreferenceScreen>
