@@ -8,7 +8,8 @@
     <CheckBoxPreference 
         android:title="alternative2"
         android:defaultValue="false"
-        android:summary="alternative style for screen 2"/>
+        android:summary="alternative style for screen 2"
+        android:key="alt_2"/>
     	
 
 </PreferenceScreen>

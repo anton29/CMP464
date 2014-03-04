@@ -14,5 +14,9 @@
 	    android:onClick="Goto2"
 	    android:text="@string/button_send"
 	    style="@style/start"/>"
+	    
+
 
 </RelativeLayout>
+
+
